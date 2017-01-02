@@ -1,23 +1,23 @@
 # basic
-title: lyyourc
-subtitle: You Are The JavaScript In My HTML
+title: 1 Project Per Month
+subtitle: plan, build, learn, repeat :)
 favicon: favicon.ico
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+avatar: images/1PPM_Logo.png
+banner_small: images/1ppm-banner-small.png
+banner_large: images/1ppm-banner-large.png
 
 # disqus
-disqus_shortname: drakeleung
+disqus_shortname: 1ppm
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/1ppm
+  twitter: https://github.com/1ppm/1ppmLog
+  medium: http://medium.com/1ppm
 
 # nav #
 nav:
@@ -33,4 +33,4 @@ node_sass:
   sourceComments: false
 
 
-google_anlytics: # Put tracking ID here
+google_anlytics: UA-89690220-1
